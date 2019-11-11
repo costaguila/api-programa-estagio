@@ -1,1 +1,1 @@
-web: gunicorn App:app --preload
+web: gunicorn apiEstagio.wsgi --preload
