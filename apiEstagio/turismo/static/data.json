@@ -1,7 +1,7 @@
 [
   {
     "nome": "Praça da Liberdade",
-    "link": "http://www.google.com/search?q=Pra%C3%A7a+da+Liberdade&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLiArFMCy0KUlK0FLOTrfRz8pMTSzLz8-AMq8SSkqLEZBCzGABCFhmKOwAAAA#fpstate=trskp&trifp=kpq%253DPra%2525C3%2525A7a%252Bda%252BLiberdade%2526skpm%253D/m/05q8pdd%2526t%253Dd",
+    "link": "http://www.google.com//search?q=Pra%C3%A7a+da+Liberdade&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLiArFMCy0KUlK0FLOTrfRz8pMTSzLz8-AMq8SSkqLEZBCzGABCFhmKOwAAAA#fpstate=trskp&trifp=kpq%253DPra%2525C3%2525A7a%252Bda%252BLiberdade%2526skpm%253D/m/05q8pdd%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/praca-da-liberdade.jpg",
     "nota": "4,7",
     "votos": "31.637",
@@ -17,11 +17,12 @@
       "sex": "00:00-23:59",
       "sab": "00:00-23:59",
       "dom": "00:00-23:59"
-    }
+    },
+    "descricao": "O complexo paisagistico e arquitetônico da Praça da Liberdade é uma síntese dos estilos que marcam a história de Belo Horizonte, e fica na região da Savassi, no encontro de quatro grandes avenidas: Cristóvão Colombo Avenida João Pinheiro Brasil Bias Fortes."
   },
   {
     "nome": "Parque Municipal Américo Renné Giannetti",
-    "link": "http://www.google.com/search?q=Parque+Municipal+Am%C3%A9rico+Renn%C3%A9+Giannetti&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQyzLMsKzPVUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgCGBFNPPAAAAA#fpstate=trskp&trifp=kpq%253DParque%252BMunicipal%252BAm%2525C3%2525A9rico%252BRenn%2525C3%2525A9%252BGiannetti%2526skpm%253D/g/121n9vv5%2526t%253Dd",
+    "link": "http://www.google.com//search?q=Parque+Municipal+Am%C3%A9rico+Renn%C3%A9+Giannetti&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQyzLMsKzPVUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgCGBFNPPAAAAA#fpstate=trskp&trifp=kpq%253DParque%252BMunicipal%252BAm%2525C3%2525A9rico%252BRenn%2525C3%2525A9%252BGiannetti%2526skpm%253D/g/121n9vv5%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/parque-municipal-giannetti.jpg",
     "nota": "4,4",
     "votos": "30.295",
@@ -37,11 +38,12 @@
       "sex": "00:00-23:59",
       "sab": "00:00-23:59",
       "dom": "00:00-23:59"
-    }
+    },
+    "descricao": "O Parque Municipal Américo Renné Giannetti, com 180.000 m², de área cercada e com guaritas em todas as entradas, é o principal parque de Belo Horizonte. Ele fica no centro da cidade, ao lado da Avenida Afonso Pena."
   },
   {
     "nome": "Lagoa da Pampulha",
-    "link": "http://www.google.com/search?q=Lagoa+da+Pampulha&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLiBLHSSsor47UUs5Ot9HPykxNLMvPz4AyrxJKSosRkELMYACHQxqc6AAAA#fpstate=trskp&trifp=kpq%253DLagoa%252Bda%252BPampulha%2526skpm%253D/m/0ftwy_%2526t%253Dd",
+    "link": "http://www.google.com//search?q=Lagoa+da+Pampulha&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLiBLHSSsor47UUs5Ot9HPykxNLMvPz4AyrxJKSosRkELMYACHQxqc6AAAA#fpstate=trskp&trifp=kpq%253DLagoa%252Bda%252BPampulha%2526skpm%253D/m/0ftwy_%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/lagoa-da-pampulha.jpg",
     "nota": "4,5",
     "votos": "5.468",
@@ -57,11 +59,12 @@
       "sex": "00:00-23:59",
       "sab": "00:00-23:59",
       "dom": "00:00-23:59"
-    }
+    },
+    "descricao": "A Lagoa da Pampulha é uma lagoa situada na região da Pampulha no município de Belo Horizonte no Estado de Minas Gerais. Faz parte de um complexo de monumentos arquitetônicos concebidos por Oscar Niemeyer, com projetos estruturais do engenheiro Joaquim Cardozo, que foram construídos durante a gestão de Juscelino Kubitschek à frente da prefeitura de Belo Horizonte.Entre outras atrações turísticas estão o Parque Promotor Lins do Rego, o Jardim Botânico, o Jardim Zoológico de Belo Horizonte, O Estádio Governador Magalhães Pinto (Mineirão), o Ginásio Mineirinho, o Parque Guanabara, a Igreja de São Francisco de Assis e o Museu de Arte da Pampulha, entre muitos outros pontos turísticos, além de lindas casas."
   },
   {
     "nome": "Capela Curial de São Francisco de Assis",
-    "link": "http://www.google.com/search?q=Capela+Curial+de+S%C3%A3o+Francisco+de+Assis&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLiArGM08uMjFO0FLOTrfRz8pMTSzLz8-AMq8SSkqLEZBCzGADospXjOwAAAA#fpstate=trskp&trifp=kpq%253DCapela%252BCurial%252Bde%252BS%2525C3%2525A3o%252BFrancisco%252Bde%252BAssis%2526skpm%253D/m/03gv23d%2526t%253Dd",
+    "link": "http://www.google.com//search?q=Capela+Curial+de+S%C3%A3o+Francisco+de+Assis&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLiArGM08uMjFO0FLOTrfRz8pMTSzLz8-AMq8SSkqLEZBCzGADospXjOwAAAA#fpstate=trskp&trifp=kpq%253DCapela%252BCurial%252Bde%252BS%2525C3%2525A3o%252BFrancisco%252Bde%252BAssis%2526skpm%253D/m/03gv23d%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/capela-sao-francisco.jpg",
     "nota": "4,6",
     "votos": "4.957",
@@ -77,11 +80,12 @@
       "sex": "00:00-23:59",
       "sab": "00:00-23:59",
       "dom": "00:00-23:59"
-    }
+    },
+    "descricao": "A Igreja São Francisco de Assis da Pampulha, em Belo Horizonte, Minas Gerais, foi inaugurada em 1943. O projeto arquitetônico da igreja é de Oscar Niemeyer, e o cálculo estrutural do engenheiro Joaquim Cardozo. Foi o último prédio a ser inaugurado do Conjunto Arquitetônico da Pampulha."
   },
   {
     "nome": "Parque Municipal das Mangabeiras",
-    "link": "http://www.google.com/search?q=Parque+Municipal+das+Mangabeiras&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQyKEsqLDHXUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgAgNKUjPAAAAA#fpstate=trskp&trifp=kpq%253DParque%252BMunicipal%252Bdas%252BMangabeiras%2526skpm%253D/g/120vbqt7%2526t%253Dd",
+    "link": "http://www.google.com//search?q=Parque+Municipal+das+Mangabeiras&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQyKEsqLDHXUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgAgNKUjPAAAAA#fpstate=trskp&trifp=kpq%253DParque%252BMunicipal%252Bdas%252BMangabeiras%2526skpm%253D/g/120vbqt7%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/parque-municipal-mangabeiras.jpg",
     "nota": "4,5",
     "votos": "5.963",
@@ -97,11 +101,12 @@
       "sex": "08:00-17:00",
       "sab": "08:00-17:00",
       "dom": "08:00-17:00"
-    }
+    },
+    "descricao": "O Parque Municipal das Mangabeiras é um parque da cidade de Belo Horizonte. Localiza-se na Serra do Curral, zona sul da cidade, e limite norte do quadrilátero ferrífero. Foi inaugurado em 1982, e possui 2.350.000 m² de área totalmente cercada, que foi decretada local de preservação em 1966."
   },
   {
     "nome": "Praça Israel Pinheiro",
-    "link": "http://www.google.com/search?q=Pra%C3%A7a+Israel+Pinheiro&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMNyvKTjEqM9NSzE620s_JT04syczPgzOsEktKihKTQcxiALzHg28-AAAA#fpstate=trskp&trifp=kpq%253DPra%2525C3%2525A7a%252BIsrael%252BPinheiro%2526skpm%253D/g/11g6rkd2v6%2526t%253Dd",
+    "link": "http://www.google.com//search?q=Pra%C3%A7a+Israel+Pinheiro&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMNyvKTjEqM9NSzE620s_JT04syczPgzOsEktKihKTQcxiALzHg28-AAAA#fpstate=trskp&trifp=kpq%253DPra%2525C3%2525A7a%252BIsrael%252BPinheiro%2526skpm%253D/g/11g6rkd2v6%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/praca-israel-pinheiro.jpg",
     "nota": "4,6",
     "votos": "13.683",
@@ -117,11 +122,12 @@
       "sex": "00:00-23:59",
       "sab": "00:00-23:59",
       "dom": "00:00-23:59"
-    }
+    },
+    "descricao": "A Praça Israel Pinheiro, mais conhecida como Praça do Papa, é uma importante praça localizada no bairro das Mangabeiras, na cidade de Belo Horizonte, Minas Gerais. Situa-se próxima à base da Serra do Curral, ao final da Avenida Agulhas Negras e a mais de 1.100 m de altitude."
   },
   {
     "nome": "Centro Cultural Banco do Brasil",
-    "link": "http://www.google.com/search?q=Centro+Cultural+Banco+do+Brasil&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi0U_XNzTKyCk2T6-w1FLMTrbSz8lPTizJzM-DM6wSS0qKEpNBzGIATohNyz0AAAA#fpstate=trskp&trifp=kpq%253DCentro%252BCultural%252BBanco%252Bdo%252BBrasil%2526skpm%253D/g/12hls7gx9%2526t%253Dd",
+    "link": "http://www.google.com//search?q=Centro+Cultural+Banco+do+Brasil&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi0U_XNzTKyCk2T6-w1FLMTrbSz8lPTizJzM-DM6wSS0qKEpNBzGIATohNyz0AAAA#fpstate=trskp&trifp=kpq%253DCentro%252BCultural%252BBanco%252Bdo%252BBrasil%2526skpm%253D/g/12hls7gx9%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/centro-cultural.jpg",
     "nota": "4,8",
     "votos": "13.334",
@@ -137,11 +143,12 @@
       "sex": "10:00-22:00",
       "sab": "10:00-22:00",
       "dom": "10:00-22:00"
-    }
+    },
+    "descricao": "O prédio de seis andares, ao lado do Edifício Niemeyer, é tombado pelo Instituto Estadual do Patrimônio Histórico e Artístico de Minas Gerais. Seu projeto arquitetônico foi concebido por Luiz Signorelli, fundador da Escola de Arquitetura de Minas Gerais. De estilo eclético, com influências neoclássicas e art déco, o prédio foi inaugurado em 1930 para sediar a Secretaria de Segurança e Assistência Pública. Já as obras de restauração para abrigar o CCBB - Belo Horizonte foram coordenadas pelo arquiteto restaurador Flávio Grilo.Assim como as demais unidades existentes em outros estados brasileiros."
   },
   {
     "nome": "Memorial Minas Gerais Vale",
-    "link": "http://www.google.com/search?q=Memorial+Minas+Gerais+Vale&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMSSmvNMrLKdRSzE620s_JT04syczPgzOsEktKihKTQcxiAHWAooc-AAAA#fpstate=trskp&trifp=kpq%253DMemorial%252BMinas%252BGerais%252BVale%2526skpm%253D/g/11ddwy2nlq%2526t%253Dd",
+    "link": "http://www.google.com//search?q=Memorial+Minas+Gerais+Vale&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMSSmvNMrLKdRSzE620s_JT04syczPgzOsEktKihKTQcxiAHWAooc-AAAA#fpstate=trskp&trifp=kpq%253DMemorial%252BMinas%252BGerais%252BVale%2526skpm%253D/g/11ddwy2nlq%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/memorial-minas-gerais-vale.jpg",
     "nota": "4,8",
     "votos": "2.413",
@@ -157,11 +164,12 @@
       "sex": "10:00-17:30",
       "sab": "10:00-17:30",
       "dom": "10:00-15:30"
-    }
+    },
+    "descricao": "O Museu Memorial Minas Gerais Vale é um museu artístico e cultural dedicado às tradições do povo mineiro localizado em Belo Horizonte, Minas Gerais. O antigo prédio da Secretaria da Fazenda foi restaurado e adaptado para mostrar ao público a história de Minas Gerais."
   },
   {
     "nome": "MM Gerdau – Museu das Minas e do Metal",
-    "link": "http://www.google.com/search?q=MM+Gerdau+%E2%80%93+Museu+das+Minas+e+do+Metal&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQyyqgqqyrSUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgDNL4A5PAAAAA#fpstate=trskp&trifp=kpq%253DMM%252BGerdau%252B%2525E2%252580%252593%252BMuseu%252Bdas%252BMinas%252Be%252Bdo%252BMetal%2526skpm%253D/g/122hzvzr%2526t%253Dd",
+    "link": "http://www.google.com//search?q=MM+Gerdau+%E2%80%93+Museu+das+Minas+e+do+Metal&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQyyqgqqyrSUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgDNL4A5PAAAAA#fpstate=trskp&trifp=kpq%253DMM%252BGerdau%252B%2525E2%252580%252593%252BMuseu%252Bdas%252BMinas%252Be%252Bdo%252BMetal%2526skpm%253D/g/122hzvzr%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/mm-gerdau.jpg",
     "nota": "4,8",
     "votos": "2.480",
@@ -177,11 +185,12 @@
       "sex": "12:00-18:00",
       "sab": "12:00-18:00",
       "dom": "12:00-18:00"
-    }
+    },
+    "descricao": "O Museu das Minas e do Metal é um museu brasileiro localizado na cidade de Belo Horizonte, Minas Gerais. Faz parte do Circuito Cultural Praça da Liberdade e foi inaugurado em 22 de março de 2010 com projeto arquitetônico de Paulo Mendes da Rocha e museográfico de Marcello Dantas."
   },
   {
     "nome": "Basílica de Nossa Senhora de Lourdes",
-    "link": "http://www.google.com/search?q=Bas%C3%ADlica+de+Nossa+Senhora+de+Lourdes&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMNjKwLDIvqtJSzE620s_JT04syczPgzOsEktKihKTQcxiAP9Kz2I-AAAA#fpstate=trskp&trifp=kpq%253DBas%2525C3%2525ADlica%252Bde%252BNossa%252BSenhora%252Bde%252BLourdes%2526skpm%253D/g/11c209r7rz%2526t%253Dd",
+    "link": "http://www.google.com//search?q=Bas%C3%ADlica+de+Nossa+Senhora+de+Lourdes&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMNjKwLDIvqtJSzE620s_JT04syczPgzOsEktKihKTQcxiAP9Kz2I-AAAA#fpstate=trskp&trifp=kpq%253DBas%2525C3%2525ADlica%252Bde%252BNossa%252BSenhora%252Bde%252BLourdes%2526skpm%253D/g/11c209r7rz%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/basilica-lourdes.jpg",
     "nota": "4,8",
     "votos": "1.109",
@@ -197,11 +206,12 @@
       "sex": "08:00-00:00",
       "sab": "08:00-00:00",
       "dom": "fechado"
-    }
+    },
+    "descricao": "A Basílica de Nossa Senhora de Lourdes, também conhecida como Igreja de Lourdes, é uma igreja católica em estilo predominantemente neogótico, localizada em Belo Horizonte, Brasil. Teve sua construção concluída em 1923. O autor do projeto é Manoel Túnes, e a construção foi feita por Antônio Gonçalves Gravatá."
   },
   {
     "nome": "Catedral Nossa Senhora da Boa Viagem",
-    "link": "http://www.google.com/search?q=Catedral+Nossa+Senhora+da+Boa+Viagem&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQySsuqMKvUUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgDI37j8PAAAAA#fpstate=trskp&trifp=kpq%253DCatedral%252BNossa%252BSenhora%252Bda%252BBoa%252BViagem%2526skpm%253D/g/122fjx6y%2526t%253Dd",
+    "link": "http://www.google.com//search?q=Catedral+Nossa+Senhora+da+Boa+Viagem&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQySsuqMKvUUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgDI37j8PAAAAA#fpstate=trskp&trifp=kpq%253DCatedral%252BNossa%252BSenhora%252Bda%252BBoa%252BViagem%2526skpm%253D/g/122fjx6y%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/catedral-boa-viagem.jpg",
     "nota": "4,8",
     "votos": "1.888",
@@ -217,11 +227,12 @@
       "sex": "00:00-23:59",
       "sab": "00:00-23:59",
       "dom": "00:00-23:59"
-    }
+    },
+    "descricao": "A Catedral Nossa Senhora da Boa Viagem é um templo católico localizado na cidade brasileira de Belo Horizonte, Brasil Desde o começo do século XVIII, o território onde hoje está a Catedral da Nossa Senhora da Boa Viagem foi ocupado por construções religiosas."
   },
   {
     "nome": "Praça Rui Barbosa",
-    "link": "http://www.google.com/search?q=Pra%C3%A7a+Rui+Barbosa&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLiArFMSwwMirK1FLOTrfRz8pMTSzLz8-AMq8SSkqLEZBCzGAAc57GtOwAAAA#fpstate=trskp&trifp=kpq%253DPra%2525C3%2525A7a%252BRui%252BBarbosa%2526skpm%253D/m/05t00rk%2526t%253Dd",
+    "link": "http://www.google.com//search?q=Pra%C3%A7a+Rui+Barbosa&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLiArFMSwwMirK1FLOTrfRz8pMTSzLz8-AMq8SSkqLEZBCzGAAc57GtOwAAAA#fpstate=trskp&trifp=kpq%253DPra%2525C3%2525A7a%252BRui%252BBarbosa%2526skpm%253D/m/05t00rk%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/praca-rui-barbosa.jpg",
     "nota": "4,2",
     "votos": "10.186",
@@ -237,11 +248,12 @@
       "sex": "00:00-23:59",
       "sab": "00:00-23:59",
       "dom": "00:00-23:59"
-    }
+    },
+    "descricao": "Praça Rui Barbosa é uma praça situada na região central da cidade de Belo Horizonte. É mais conhecida como Praça da Estação por estar localizada em frente ao prédio da antiga estação da Estrada de Ferro Central do Brasil, hoje Museu de Artes e Ofícios."
   },
   {
     "nome": "Museu de Ciências Naturais da PUC Minas",
-    "link": "http://www.google.com/search?q=Museu+de+Ci%C3%AAncias+Naturais+da+PUC+Minas&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQyNM-yTDLSUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgCp8bRvPAAAAA#fpstate=trskp&trifp=kpq%253DMuseu%252Bde%252BCi%2525C3%2525AAncias%252BNaturais%252Bda%252BPUC%252BMinas%2526skpm%253D/g/1217j9b2%2526t%253Dd",
+    "link": "http://www.google.com//search?q=Museu+de+Ci%C3%AAncias+Naturais+da+PUC+Minas&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQyNM-yTDLSUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgCp8bRvPAAAAA#fpstate=trskp&trifp=kpq%253DMuseu%252Bde%252BCi%2525C3%2525AAncias%252BNaturais%252Bda%252BPUC%252BMinas%2526skpm%253D/g/1217j9b2%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/museu-ciencias-puc-minas.jpg",
     "nota": "4,8",
     "votos": "3.617",
@@ -257,11 +269,12 @@
       "sex": "09:00-17:00",
       "sab": "fechado",
       "dom": "fechado"
-    }
+    },
+    "descricao": "O Museu de Ciências Naturais da Pontifícia Universidade Católica de Minas Gerais é um museu brasileiro de ciências naturais, que por meio de exposições, educação e pesquisa, preserva o patrimônio natural, histórico e cultural do Brasil."
   },
   {
     "nome": "Praça Sete de Setembro",
-    "link": "http://www.google.com/search?q=Pra%C3%A7a+Sete+de+Setembro&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLiArHiy4wsSsy1FLOTrfRz8pMTSzLz8-AMq8SSkqLEZBCzGADedd8POwAAAA#fpstate=trskp&trifp=kpq%253DPra%2525C3%2525A7a%252BSete%252Bde%252BSetembro%2526skpm%253D/m/0_v28t7%2526t%253Dd",
+    "link": "http://www.google.com//search?q=Pra%C3%A7a+Sete+de+Setembro&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLiArHiy4wsSsy1FLOTrfRz8pMTSzLz8-AMq8SSkqLEZBCzGADedd8POwAAAA#fpstate=trskp&trifp=kpq%253DPra%2525C3%2525A7a%252BSete%252Bde%252BSetembro%2526skpm%253D/m/0_v28t7%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/praca-sete.jpg",
     "nota": "4,1",
     "votos": "36.184",
@@ -277,11 +290,12 @@
       "sex": "00:00-23:59",
       "sab": "00:00-23:59",
       "dom": "00:00-23:59"
-    }
+    },
+    "descricao": "A Praça Sete de Setembro, comumente chamada Praça Sete, é a praça mais movimentada da cidade de Belo Horizonte, marco zero do seu hipercentro. Está localizada no cruzamento de duas grandes avenidas, a Afonso Pena e a Amazonas, e é entrecortada pelas ruas Rio de Janeiro e Carijós."
   },
   {
     "nome": "Praça Rio Branco",
-    "link": "http://www.google.com/search?q=Pra%C3%A7a+Rio+Branco&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMNjYvLq4wz9ZSzE620s_JT04syczPgzOsEktKihKTQcxiAEffDDE-AAAA#fpstate=trskp&trifp=kpq%253DPra%2525C3%2525A7a%252BRio%252BBranco%2526skpm%253D/g/11c37ssx7k%2526t%253Dd",
+    "link": "http://www.google.com//search?q=Pra%C3%A7a+Rio+Branco&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMNjYvLq4wz9ZSzE620s_JT04syczPgzOsEktKihKTQcxiAEffDDE-AAAA#fpstate=trskp&trifp=kpq%253DPra%2525C3%2525A7a%252BRio%252BBranco%2526skpm%253D/g/11c37ssx7k%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/praca-rio-branco.jpg",
     "nota": "3,5",
     "votos": "4.584",
@@ -297,11 +311,12 @@
       "sex": "00:00-23:59",
       "sab": "00:00-23:59",
       "dom": "00:00-23:59"
-    }
+    },
+    "descricao": "A Praça Rio Branco é uma das principais praças de Belo Horizonte, que homenageia José Maria da Silva Paranhos Júnior, Barão do Rio Branco. Marca o início da Avenida Afonso Pena e na década de 1970 foi ali foi instalado o Terminal Rodoviário da cidade, passando o local a ser conhecido popularmente como Praça da Rodoviária. No centro foi colocado em 1982 o monumento Liberdade em Equilíbrio, escultura monumental de 21 metros, autoria da artista plástica Mary Vieira, cujas formas geométricas são conjugadas compondo um monovolume. A base da escultura é a praça, composta por listras em espiral em várias direções, que sustêm um cubo flutuante em três eixos, fabricado em concreto, pelo que também é denominada praça-monumento."
   },
   {
     "nome": "Parque Ecológico Vencesli Firmino",
-    "link": "http://www.google.com/search?q=Parque+Ecol%C3%B3gico+Vencesli+Firmino&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMMq9INynMLtZSzE620s_JT04syczPgzOsEktKihKTQcxiAOZ8YQc-AAAA#fpstate=trskp&trifp=kpq%253DParque%252BEcol%2525C3%2525B3gico%252BVencesli%252BFirmino%2526skpm%253D/g/11b7xg4qks%2526t%253Dd",
+    "link": "http://www.google.com//search?q=Parque+Ecol%C3%B3gico+Vencesli+Firmino&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMMq9INynMLtZSzE620s_JT04syczPgzOsEktKihKTQcxiAOZ8YQc-AAAA#fpstate=trskp&trifp=kpq%253DParque%252BEcol%2525C3%2525B3gico%252BVencesli%252BFirmino%2526skpm%253D/g/11b7xg4qks%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/parque-vencesli-firmino.jpg",
     "nota": "4,4",
     "votos": "793",
@@ -317,11 +332,12 @@
       "sex": "07:00-18:00",
       "sab": "07:00-18:00",
       "dom": "07:00-18:00"
-    }
+    },
+    "descricao": "O Parque Vencesli Firmino da Silva foi criado em 1995 e implantado em 2009, por meio do Orçamento Participativo 2005/2006. Possui uma área aproximada de 20.200 m² e opções de lazer."
   },
   {
     "nome": "Parque do Bairro Planalto",
-    "link": "http://www.google.com/search?q=Parque+do+Bairro+Planalto&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMMzMvqMwzMdFSzE620s_JT04syczPgzOsEktKihKTQcxiAP8grd0-AAAA#fpstate=trskp&trifp=kpq%253DParque%252Bdo%252BBairro%252BPlanalto%2526skpm%253D/g/11f67pyn44%2526t%253Dd",
+    "link": "http://www.google.com//search?q=Parque+do+Bairro+Planalto&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMMzMvqMwzMdFSzE620s_JT04syczPgzOsEktKihKTQcxiAP8grd0-AAAA#fpstate=trskp&trifp=kpq%253DParque%252Bdo%252BBairro%252BPlanalto%2526skpm%253D/g/11f67pyn44%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/parque-bairro-planalto.jpg",
     "nota": "4,1",
     "votos": "55",
@@ -337,11 +353,12 @@
       "sex": "00:00-23:59",
       "sab": "00:00-23:59",
       "dom": "00:00-23:59"
-    }
+    },
+    "descricao": "Antes conhecido como Fazendo do Retiro por ter sido utilizado como pasto de animais, o Parque do Bairro Planalto ocupa hoje uma área de 26 mil metros quadrados, dos quais 80% são de área vegetada."
   },
   {
     "nome": "Parque Linear do Vale do Arrudas",
-    "link": "http://www.google.com/search?q=Parque+Linear+do+Vale+do+Arrudas&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQyLKwsTjHXUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgCIEiVqPAAAAA#fpstate=trskp&trifp=kpq%253DParque%252BLinear%252Bdo%252BVale%252Bdo%252BArrudas%2526skpm%253D/g/121qysd7%2526t%253Dd",
+    "link": "http://www.google.com//search?q=Parque+Linear+do+Vale+do+Arrudas&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQyLKwsTjHXUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgCIEiVqPAAAAA#fpstate=trskp&trifp=kpq%253DParque%252BLinear%252Bdo%252BVale%252Bdo%252BArrudas%2526skpm%253D/g/121qysd7%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/parque-linear-vale-arrudas.jpg",
     "nota": "4,0",
     "votos": "177",
@@ -357,7 +374,8 @@
       "sex": "00:00-23:59",
       "sab": "00:00-23:59",
       "dom": "00:00-23:59"
-    }
+    },
+    "descricao": "O Parque Linear do Vale do Arrudas, também conhecido como Parque do Centenário, é uma área protegida brasileira. Está localizado no bairro Abadia, região leste de Belo Horizonte e possui uma área de 41 mil m²."
   },
   {
     "nome": "Museu Paulo Araújo Moreira Gontijo",
@@ -377,7 +395,8 @@
       "sex": "09:00-18:00",
       "sab": "fechado",
       "dom": "fechado"
-    }
+    },
+    "descricao": "O Museu Paulo Araújo Moreira Gontijo funciona no prédio que foi sede da primeira escola estadual de Betim, a Conselheiro Afonso Pena, construída em 1910, e, posteriormente, do Colégio Comercial Betinense, na década de 1960. O prédio foi tombado pelo Patrimônio Histórico Municipal em 1998 e transformado em museu em 2002, durante o governo de Carlaile Pedrosa."
   },
   {
     "nome": "Parque Batismal",
@@ -397,7 +416,8 @@
       "sex": "00:00-23:59",
       "sab": "00:00-23:59",
       "dom": "00:00-23:59"
-    }
+    },
+    "descricao": "O Parque Batismal e Ecológico Pastor José Alexandre Haméz, no Sítio Poções, já está pronto para receber as pessoas que têm interesse em praticar esportes. É que foi instalada no local uma academia popular, formada por oito equipamentos de ginástica. O espaço foi totalmente revitalizado, com trabalhos de limpeza, capina e jardinagem."
   },
   {
     "nome": "Instituto Inhotim",
@@ -417,7 +437,8 @@
       "sex": "09:30-16:30",
       "sab": "09:30-17:30",
       "dom": "09:30-17:30"
-    }
+    },
+    "descricao": "O Instituto Inhotim é a sede de um dos mais importantes acervos de arte contemporânea do Brasil e considerado o maior museu a céu aberto do mundo. Está localizado em Brumadinho, uma cidade com 38 mil habitantes, a apenas 60 quilômetros de Belo Horizonte."
   },
   {
     "nome": "Parque Estadual da Serra do Rola-Moça",
@@ -437,7 +458,8 @@
       "sex": "08:00-17:00",
       "sab": "08:00-17:00",
       "dom": "08:00-17:00"
-    }
+    },
+    "descricao": "O Parque Estadual da Serra do Rola-Moça, situado na região metropolitana de Belo Horizonte, é uma das mais importantes áreas verdes no estado brasileiro de Minas Gerais."
   },
   {
     "nome": "Cachoeira das Ostras",
@@ -457,7 +479,8 @@
       "sex": "00:00-23:59",
       "sab": "00:00-23:59",
       "dom": "00:00-23:59"
-    }
+    },
+    "descricao": "A cachoeira está localizada entre as serras Ouro Fino e Calçada e fica em Brumadinho, na Região Metropolitana de Belo Horizonte. Tem como ponto de referência a Praça Central de Casa Branca, em Brumadinho."
   },
   {
     "nome": "Ruínas do Forte de Brumadinho",
@@ -477,7 +500,8 @@
       "sex": "00:00-23:59",
       "sab": "00:00-23:59",
       "dom": "00:00-23:59"
-    }
+    },
+    "descricao": "As ruínas constituem uma construção quadrangular, com aproximadamente 50x40 metros de comprimento. No seu interior há uma construção menor, também de pedra. As muralhas externas têm apenas uma abertura na frente: uma porta de 3,60 metros de altura e 2 metros de largura. A casa interna tem duas portas, à frente e atrás, e seis janelas laterais. Tudo em pedra maciça e retangular, chegando alguns blocos a 1,50m de comprimento. A construção revela enorme trabalho e habilidade dos seus artífices."
   },
   {
     "nome": "Topo do Mundo - Serra Da Moeda",
@@ -497,7 +521,8 @@
       "sex": "00:00-23:59",
       "sab": "00:00-23:59",
       "dom": "00:00-23:59"
-    }
+    },
+    "descricao": "Que Minas Gerais tem belas paisagens, nós sabemos e muito bem. Entre serras e montanhas, o Estado é conhecido por suas belezas naturais e destinos turísticos. Entre os mais populares, o Topo do Mundo, localizado a 1500 metros de altitude – bem no alto da Serra da Moeda – é parada obrigatória para quem visita Minas e deseja experimentar um pouco de adrenalina e os sabores da culinária local."
   },
   {
     "nome": "Poço Encantado",
@@ -517,7 +542,8 @@
       "sex": "00:00-23:59",
       "sab": "00:00-23:59",
       "dom": "00:00-23:59"
-    }
+    },
+    "descricao": "A cachoeira está localizada no Conjunto Histórico e Paisagístico da Serra da Calçada, na Região Metropolitana de Belo Horizonte. Está dentro do Condomínio Retiro das Pedras, em Brumadinho."
   },
   {
     "nome": "Lagoa dos Ingleses",
@@ -537,7 +563,8 @@
       "sex": "00:00-23:59",
       "sab": "00:00-23:59",
       "dom": "00:00-23:59"
-    }
+    },
+    "descricao": "Lagoa dos Ingleses é uma lagoa artificial, situada no município de Nova Lima, Minas Gerais. Criada em 1932 com o objetivo de ser uma barragem para armazenar água da chuva que posteriormente seria utilizada para gerar energia elétrica para a Mina do Morro Velho. Hoje a empresa é concessionária do uso das águas."
   },
   {
     "nome": "Igreja N. Sra. da Piedade church",
@@ -557,7 +584,8 @@
       "sex": "00:00-23:59",
       "sab": "00:00-23:59",
       "dom": "00:00-23:59"
-    }
+    },
+    "descricao": "Localizada em uma aprazível localidade, uma pequena vila típica do interior de Minas Gerais, a igreja é uma bela mostra das construções religiosas na fase colonial da historia do Brasil."
   },
   {
     "nome": "Cachoeira Jangada",
@@ -577,6 +605,8 @@
       "sex": "00:00-23:59",
       "sab": "00:00-23:59",
       "dom": "00:00-23:59"
-    }
+    },
+    "descricao": "Uma bela cachoeira localizada em Brumadinho. Trilha inicial por estrada e depois em mata coberta."
   }
 ]
+
