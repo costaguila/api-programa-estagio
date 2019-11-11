@@ -1,7 +1,7 @@
 [
   {
     "nome": "Praça da Liberdade",
-    "link": "http://www.google.com//search?q=Pra%C3%A7a+da+Liberdade&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLiArFMCy0KUlK0FLOTrfRz8pMTSzLz8-AMq8SSkqLEZBCzGABCFhmKOwAAAA#fpstate=trskp&trifp=kpq%253DPra%2525C3%2525A7a%252Bda%252BLiberdade%2526skpm%253D/m/05q8pdd%2526t%253Dd",
+    "link": "http://www.google.com/search?q=Pra%C3%A7a+da+Liberdade&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLiArFMCy0KUlK0FLOTrfRz8pMTSzLz8-AMq8SSkqLEZBCzGABCFhmKOwAAAA#fpstate=trskp&trifp=kpq%253DPra%2525C3%2525A7a%252Bda%252BLiberdade%2526skpm%253D/m/05q8pdd%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/praca-da-liberdade.jpg",
     "nota": "4,7",
     "votos": "31.637",
@@ -22,7 +22,7 @@
   },
   {
     "nome": "Parque Municipal Américo Renné Giannetti",
-    "link": "http://www.google.com//search?q=Parque+Municipal+Am%C3%A9rico+Renn%C3%A9+Giannetti&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQyzLMsKzPVUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgCGBFNPPAAAAA#fpstate=trskp&trifp=kpq%253DParque%252BMunicipal%252BAm%2525C3%2525A9rico%252BRenn%2525C3%2525A9%252BGiannetti%2526skpm%253D/g/121n9vv5%2526t%253Dd",
+    "link": "http://www.google.com/search?q=Parque+Municipal+Am%C3%A9rico+Renn%C3%A9+Giannetti&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQyzLMsKzPVUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgCGBFNPPAAAAA#fpstate=trskp&trifp=kpq%253DParque%252BMunicipal%252BAm%2525C3%2525A9rico%252BRenn%2525C3%2525A9%252BGiannetti%2526skpm%253D/g/121n9vv5%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/parque-municipal-giannetti.jpg",
     "nota": "4,4",
     "votos": "30.295",
@@ -43,7 +43,7 @@
   },
   {
     "nome": "Lagoa da Pampulha",
-    "link": "http://www.google.com//search?q=Lagoa+da+Pampulha&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLiBLHSSsor47UUs5Ot9HPykxNLMvPz4AyrxJKSosRkELMYACHQxqc6AAAA#fpstate=trskp&trifp=kpq%253DLagoa%252Bda%252BPampulha%2526skpm%253D/m/0ftwy_%2526t%253Dd",
+    "link": "http://www.google.com/search?q=Lagoa+da+Pampulha&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLiBLHSSsor47UUs5Ot9HPykxNLMvPz4AyrxJKSosRkELMYACHQxqc6AAAA#fpstate=trskp&trifp=kpq%253DLagoa%252Bda%252BPampulha%2526skpm%253D/m/0ftwy_%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/lagoa-da-pampulha.jpg",
     "nota": "4,5",
     "votos": "5.468",
@@ -64,7 +64,7 @@
   },
   {
     "nome": "Capela Curial de São Francisco de Assis",
-    "link": "http://www.google.com//search?q=Capela+Curial+de+S%C3%A3o+Francisco+de+Assis&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLiArGM08uMjFO0FLOTrfRz8pMTSzLz8-AMq8SSkqLEZBCzGADospXjOwAAAA#fpstate=trskp&trifp=kpq%253DCapela%252BCurial%252Bde%252BS%2525C3%2525A3o%252BFrancisco%252Bde%252BAssis%2526skpm%253D/m/03gv23d%2526t%253Dd",
+    "link": "http://www.google.com/search?q=Capela+Curial+de+S%C3%A3o+Francisco+de+Assis&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLiArGM08uMjFO0FLOTrfRz8pMTSzLz8-AMq8SSkqLEZBCzGADospXjOwAAAA#fpstate=trskp&trifp=kpq%253DCapela%252BCurial%252Bde%252BS%2525C3%2525A3o%252BFrancisco%252Bde%252BAssis%2526skpm%253D/m/03gv23d%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/capela-sao-francisco.jpg",
     "nota": "4,6",
     "votos": "4.957",
@@ -85,7 +85,7 @@
   },
   {
     "nome": "Parque Municipal das Mangabeiras",
-    "link": "http://www.google.com//search?q=Parque+Municipal+das+Mangabeiras&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQyKEsqLDHXUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgAgNKUjPAAAAA#fpstate=trskp&trifp=kpq%253DParque%252BMunicipal%252Bdas%252BMangabeiras%2526skpm%253D/g/120vbqt7%2526t%253Dd",
+    "link": "http://www.google.com/search?q=Parque+Municipal+das+Mangabeiras&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQyKEsqLDHXUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgAgNKUjPAAAAA#fpstate=trskp&trifp=kpq%253DParque%252BMunicipal%252Bdas%252BMangabeiras%2526skpm%253D/g/120vbqt7%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/parque-municipal-mangabeiras.jpg",
     "nota": "4,5",
     "votos": "5.963",
@@ -106,7 +106,7 @@
   },
   {
     "nome": "Praça Israel Pinheiro",
-    "link": "http://www.google.com//search?q=Pra%C3%A7a+Israel+Pinheiro&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMNyvKTjEqM9NSzE620s_JT04syczPgzOsEktKihKTQcxiALzHg28-AAAA#fpstate=trskp&trifp=kpq%253DPra%2525C3%2525A7a%252BIsrael%252BPinheiro%2526skpm%253D/g/11g6rkd2v6%2526t%253Dd",
+    "link": "http://www.google.com/search?q=Pra%C3%A7a+Israel+Pinheiro&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMNyvKTjEqM9NSzE620s_JT04syczPgzOsEktKihKTQcxiALzHg28-AAAA#fpstate=trskp&trifp=kpq%253DPra%2525C3%2525A7a%252BIsrael%252BPinheiro%2526skpm%253D/g/11g6rkd2v6%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/praca-israel-pinheiro.jpg",
     "nota": "4,6",
     "votos": "13.683",
@@ -127,7 +127,7 @@
   },
   {
     "nome": "Centro Cultural Banco do Brasil",
-    "link": "http://www.google.com//search?q=Centro+Cultural+Banco+do+Brasil&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi0U_XNzTKyCk2T6-w1FLMTrbSz8lPTizJzM-DM6wSS0qKEpNBzGIATohNyz0AAAA#fpstate=trskp&trifp=kpq%253DCentro%252BCultural%252BBanco%252Bdo%252BBrasil%2526skpm%253D/g/12hls7gx9%2526t%253Dd",
+    "link": "http://www.google.com/search?q=Centro+Cultural+Banco+do+Brasil&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi0U_XNzTKyCk2T6-w1FLMTrbSz8lPTizJzM-DM6wSS0qKEpNBzGIATohNyz0AAAA#fpstate=trskp&trifp=kpq%253DCentro%252BCultural%252BBanco%252Bdo%252BBrasil%2526skpm%253D/g/12hls7gx9%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/centro-cultural.jpg",
     "nota": "4,8",
     "votos": "13.334",
@@ -148,7 +148,7 @@
   },
   {
     "nome": "Memorial Minas Gerais Vale",
-    "link": "http://www.google.com//search?q=Memorial+Minas+Gerais+Vale&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMSSmvNMrLKdRSzE620s_JT04syczPgzOsEktKihKTQcxiAHWAooc-AAAA#fpstate=trskp&trifp=kpq%253DMemorial%252BMinas%252BGerais%252BVale%2526skpm%253D/g/11ddwy2nlq%2526t%253Dd",
+    "link": "http://www.google.com/search?q=Memorial+Minas+Gerais+Vale&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMSSmvNMrLKdRSzE620s_JT04syczPgzOsEktKihKTQcxiAHWAooc-AAAA#fpstate=trskp&trifp=kpq%253DMemorial%252BMinas%252BGerais%252BVale%2526skpm%253D/g/11ddwy2nlq%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/memorial-minas-gerais-vale.jpg",
     "nota": "4,8",
     "votos": "2.413",
@@ -169,7 +169,7 @@
   },
   {
     "nome": "MM Gerdau – Museu das Minas e do Metal",
-    "link": "http://www.google.com//search?q=MM+Gerdau+%E2%80%93+Museu+das+Minas+e+do+Metal&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQyyqgqqyrSUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgDNL4A5PAAAAA#fpstate=trskp&trifp=kpq%253DMM%252BGerdau%252B%2525E2%252580%252593%252BMuseu%252Bdas%252BMinas%252Be%252Bdo%252BMetal%2526skpm%253D/g/122hzvzr%2526t%253Dd",
+    "link": "http://www.google.com/search?q=MM+Gerdau+%E2%80%93+Museu+das+Minas+e+do+Metal&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQyyqgqqyrSUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgDNL4A5PAAAAA#fpstate=trskp&trifp=kpq%253DMM%252BGerdau%252B%2525E2%252580%252593%252BMuseu%252Bdas%252BMinas%252Be%252Bdo%252BMetal%2526skpm%253D/g/122hzvzr%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/mm-gerdau.jpg",
     "nota": "4,8",
     "votos": "2.480",
@@ -190,7 +190,7 @@
   },
   {
     "nome": "Basílica de Nossa Senhora de Lourdes",
-    "link": "http://www.google.com//search?q=Bas%C3%ADlica+de+Nossa+Senhora+de+Lourdes&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMNjKwLDIvqtJSzE620s_JT04syczPgzOsEktKihKTQcxiAP9Kz2I-AAAA#fpstate=trskp&trifp=kpq%253DBas%2525C3%2525ADlica%252Bde%252BNossa%252BSenhora%252Bde%252BLourdes%2526skpm%253D/g/11c209r7rz%2526t%253Dd",
+    "link": "http://www.google.com/search?q=Bas%C3%ADlica+de+Nossa+Senhora+de+Lourdes&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMNjKwLDIvqtJSzE620s_JT04syczPgzOsEktKihKTQcxiAP9Kz2I-AAAA#fpstate=trskp&trifp=kpq%253DBas%2525C3%2525ADlica%252Bde%252BNossa%252BSenhora%252Bde%252BLourdes%2526skpm%253D/g/11c209r7rz%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/basilica-lourdes.jpg",
     "nota": "4,8",
     "votos": "1.109",
@@ -211,7 +211,7 @@
   },
   {
     "nome": "Catedral Nossa Senhora da Boa Viagem",
-    "link": "http://www.google.com//search?q=Catedral+Nossa+Senhora+da+Boa+Viagem&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQySsuqMKvUUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgDI37j8PAAAAA#fpstate=trskp&trifp=kpq%253DCatedral%252BNossa%252BSenhora%252Bda%252BBoa%252BViagem%2526skpm%253D/g/122fjx6y%2526t%253Dd",
+    "link": "http://www.google.com/search?q=Catedral+Nossa+Senhora+da+Boa+Viagem&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQySsuqMKvUUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgDI37j8PAAAAA#fpstate=trskp&trifp=kpq%253DCatedral%252BNossa%252BSenhora%252Bda%252BBoa%252BViagem%2526skpm%253D/g/122fjx6y%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/catedral-boa-viagem.jpg",
     "nota": "4,8",
     "votos": "1.888",
@@ -232,7 +232,7 @@
   },
   {
     "nome": "Praça Rui Barbosa",
-    "link": "http://www.google.com//search?q=Pra%C3%A7a+Rui+Barbosa&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLiArFMSwwMirK1FLOTrfRz8pMTSzLz8-AMq8SSkqLEZBCzGAAc57GtOwAAAA#fpstate=trskp&trifp=kpq%253DPra%2525C3%2525A7a%252BRui%252BBarbosa%2526skpm%253D/m/05t00rk%2526t%253Dd",
+    "link": "http://www.google.com/search?q=Pra%C3%A7a+Rui+Barbosa&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLiArFMSwwMirK1FLOTrfRz8pMTSzLz8-AMq8SSkqLEZBCzGAAc57GtOwAAAA#fpstate=trskp&trifp=kpq%253DPra%2525C3%2525A7a%252BRui%252BBarbosa%2526skpm%253D/m/05t00rk%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/praca-rui-barbosa.jpg",
     "nota": "4,2",
     "votos": "10.186",
@@ -253,7 +253,7 @@
   },
   {
     "nome": "Museu de Ciências Naturais da PUC Minas",
-    "link": "http://www.google.com//search?q=Museu+de+Ci%C3%AAncias+Naturais+da+PUC+Minas&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQyNM-yTDLSUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgCp8bRvPAAAAA#fpstate=trskp&trifp=kpq%253DMuseu%252Bde%252BCi%2525C3%2525AAncias%252BNaturais%252Bda%252BPUC%252BMinas%2526skpm%253D/g/1217j9b2%2526t%253Dd",
+    "link": "http://www.google.com/search?q=Museu+de+Ci%C3%AAncias+Naturais+da+PUC+Minas&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQyNM-yTDLSUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgCp8bRvPAAAAA#fpstate=trskp&trifp=kpq%253DMuseu%252Bde%252BCi%2525C3%2525AAncias%252BNaturais%252Bda%252BPUC%252BMinas%2526skpm%253D/g/1217j9b2%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/museu-ciencias-puc-minas.jpg",
     "nota": "4,8",
     "votos": "3.617",
@@ -274,7 +274,7 @@
   },
   {
     "nome": "Praça Sete de Setembro",
-    "link": "http://www.google.com//search?q=Pra%C3%A7a+Sete+de+Setembro&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLiArHiy4wsSsy1FLOTrfRz8pMTSzLz8-AMq8SSkqLEZBCzGADedd8POwAAAA#fpstate=trskp&trifp=kpq%253DPra%2525C3%2525A7a%252BSete%252Bde%252BSetembro%2526skpm%253D/m/0_v28t7%2526t%253Dd",
+    "link": "http://www.google.com/search?q=Pra%C3%A7a+Sete+de+Setembro&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLiArHiy4wsSsy1FLOTrfRz8pMTSzLz8-AMq8SSkqLEZBCzGADedd8POwAAAA#fpstate=trskp&trifp=kpq%253DPra%2525C3%2525A7a%252BSete%252Bde%252BSetembro%2526skpm%253D/m/0_v28t7%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/praca-sete.jpg",
     "nota": "4,1",
     "votos": "36.184",
@@ -295,7 +295,7 @@
   },
   {
     "nome": "Praça Rio Branco",
-    "link": "http://www.google.com//search?q=Pra%C3%A7a+Rio+Branco&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMNjYvLq4wz9ZSzE620s_JT04syczPgzOsEktKihKTQcxiAEffDDE-AAAA#fpstate=trskp&trifp=kpq%253DPra%2525C3%2525A7a%252BRio%252BBranco%2526skpm%253D/g/11c37ssx7k%2526t%253Dd",
+    "link": "http://www.google.com/search?q=Pra%C3%A7a+Rio+Branco&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMNjYvLq4wz9ZSzE620s_JT04syczPgzOsEktKihKTQcxiAEffDDE-AAAA#fpstate=trskp&trifp=kpq%253DPra%2525C3%2525A7a%252BRio%252BBranco%2526skpm%253D/g/11c37ssx7k%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/praca-rio-branco.jpg",
     "nota": "3,5",
     "votos": "4.584",
@@ -316,7 +316,7 @@
   },
   {
     "nome": "Parque Ecológico Vencesli Firmino",
-    "link": "http://www.google.com//search?q=Parque+Ecol%C3%B3gico+Vencesli+Firmino&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMMq9INynMLtZSzE620s_JT04syczPgzOsEktKihKTQcxiAOZ8YQc-AAAA#fpstate=trskp&trifp=kpq%253DParque%252BEcol%2525C3%2525B3gico%252BVencesli%252BFirmino%2526skpm%253D/g/11b7xg4qks%2526t%253Dd",
+    "link": "http://www.google.com/search?q=Parque+Ecol%C3%B3gico+Vencesli+Firmino&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMMq9INynMLtZSzE620s_JT04syczPgzOsEktKihKTQcxiAOZ8YQc-AAAA#fpstate=trskp&trifp=kpq%253DParque%252BEcol%2525C3%2525B3gico%252BVencesli%252BFirmino%2526skpm%253D/g/11b7xg4qks%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/parque-vencesli-firmino.jpg",
     "nota": "4,4",
     "votos": "793",
@@ -337,7 +337,7 @@
   },
   {
     "nome": "Parque do Bairro Planalto",
-    "link": "http://www.google.com//search?q=Parque+do+Bairro+Planalto&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMMzMvqMwzMdFSzE620s_JT04syczPgzOsEktKihKTQcxiAP8grd0-AAAA#fpstate=trskp&trifp=kpq%253DParque%252Bdo%252BBairro%252BPlanalto%2526skpm%253D/g/11f67pyn44%2526t%253Dd",
+    "link": "http://www.google.com/search?q=Parque+do+Bairro+Planalto&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1U_XNzRMMzMvqMwzMdFSzE620s_JT04syczPgzOsEktKihKTQcxiAP8grd0-AAAA#fpstate=trskp&trifp=kpq%253DParque%252Bdo%252BBairro%252BPlanalto%2526skpm%253D/g/11f67pyn44%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/parque-bairro-planalto.jpg",
     "nota": "4,1",
     "votos": "55",
@@ -358,7 +358,7 @@
   },
   {
     "nome": "Parque Linear do Vale do Arrudas",
-    "link": "http://www.google.com//search?q=Parque+Linear+do+Vale+do+Arrudas&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQyLKwsTjHXUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgCIEiVqPAAAAA#fpstate=trskp&trifp=kpq%253DParque%252BLinear%252Bdo%252BVale%252Bdo%252BArrudas%2526skpm%253D/g/121qysd7%2526t%253Dd",
+    "link": "http://www.google.com/search?q=Parque+Linear+do+Vale+do+Arrudas&stick=H4sIAAAAAAAAAONgFuLQz9U3yDEuNFLi1k_XNzQyLKwsTjHXUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgCIEiVqPAAAAA#fpstate=trskp&trifp=kpq%253DParque%252BLinear%252Bdo%252BVale%252Bdo%252BArrudas%2526skpm%253D/g/121qysd7%2526t%253Dd",
     "image": "https://turismo-teste.herokuapp.com/static/parque-linear-vale-arrudas.jpg",
     "nota": "4,0",
     "votos": "177",
@@ -609,4 +609,3 @@
     "descricao": "Uma bela cachoeira localizada em Brumadinho. Trilha inicial por estrada e depois em mata coberta."
   }
 ]
-
